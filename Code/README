@@ -1,0 +1,6 @@
+There are two types of code in this folder:
+
+1) One is DQN code, this code constructs the DQN agent and performs the training for a given case study,
+2) The second is the simulation code, where the trained DQN is tested multiple times and features of the culled farms are recorded.
+
+The code for each case study is nearly the same, with the exception of the data used.
